@@ -1,0 +1,1 @@
+var link=document.querySelector(".search-btn"),popup=document.querySelector(".search-window");link.addEventListener("click",function(e){e.preventDefault(),popup.classList.toggle("search-window-show")});
