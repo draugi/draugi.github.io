@@ -279,6 +279,7 @@ textarea::-webkit-input-placeholder {
 
 .comment-field {
     width: 587px;
+    height: 160px;
     margin-left: 50px;
     margin-top: 10px;
     padding: 18px 0 0 30px;
