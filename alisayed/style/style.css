@@ -238,10 +238,6 @@ h1 {
 }
 
 .contact-us {
-/*
-    display: flex;
-    flex-direction: column;
-*/
     min-height: 715px;
     width: 908px;
     background: url(../img/background-6.jpg) no-repeat;
@@ -268,6 +264,7 @@ h1 {
     border-radius: 10px;
     background: transparent;
     outline: none;
+    color: #fff;
 }
 
 .contact-field-second {
