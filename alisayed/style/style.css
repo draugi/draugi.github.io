@@ -287,6 +287,7 @@ textarea::-webkit-input-placeholder {
     background: transparent;
     outline: none;
     color: #fff;
+     resize: none;
 }
 
 .social-networks {
