@@ -269,7 +269,7 @@ h1 {
 
 .light-footer {
     display: inline-block;
-    width: 328px;
+    width: 350px;
     margin-left: 45px;
     margin-bottom: 20px;
     font-weight: 300;
@@ -279,6 +279,7 @@ h1 {
 
 .bold-footer {
     display: inline-block;
+    width: 350px;
     margin-left: 50px;
     font-weight: 900;
     font-size: 45px;
